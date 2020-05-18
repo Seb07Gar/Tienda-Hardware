@@ -1,0 +1,12 @@
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\bin\Debug\TiendaVirtualHardware.exe.config
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\bin\Debug\TiendaVirtualHardware.exe
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\bin\Debug\TiendaVirtualHardware.pdb
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.exe
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.pdb
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.FrmIntro.resources
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.FrmAcces.resources
+C:\Users\Sebastian\source\repos\TiendaVirtualHardware\TiendaVirtualHardware\obj\Debug\TiendaVirtualHardware.FrmCompra.resources
